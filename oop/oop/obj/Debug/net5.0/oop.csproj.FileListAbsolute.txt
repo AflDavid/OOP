@@ -1,0 +1,16 @@
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.csproj.AssemblyReference.cache
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.AssemblyInfoInputs.cache
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.AssemblyInfo.cs
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.csproj.CoreCompileInputs.cache
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\oop.exe
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\oop.deps.json
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\oop.runtimeconfig.json
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\oop.runtimeconfig.dev.json
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\oop.dll
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\ref\oop.dll
+C:\Users\David Afloarei\source\repos\oop\oop\bin\Debug\net5.0\oop.pdb
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.dll
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\ref\oop.dll
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.pdb
+C:\Users\David Afloarei\source\repos\oop\oop\obj\Debug\net5.0\oop.genruntimeconfig.cache
